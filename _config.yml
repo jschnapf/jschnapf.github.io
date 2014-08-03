@@ -9,7 +9,9 @@ permalink:        pretty
 title:            Lanyon
 tagline:          'A Jekyll theme'
 description:      'A Jekyll blog.'
-url:              http://jschnapf.github.io/lanyon/
+baseurl:              http://jschnapf.github.io/lanyon/
+
+
 
 author:
   name:           'Mark Otto'
