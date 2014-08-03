@@ -5,20 +5,27 @@ pygments:         true
 # Permalinks
 permalink:        pretty
 
-# Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
-baseurl:          '/'
-paginate:         5
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://pbs.twimg.com/profile_images/495668870322331648/_vMr7Ztq.jpeg
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# Used for Sitemap.xml and your RSS feed
+url: http://jschnapf.github.io
 
-# Custom vars
-version:          1.0.0
+# Name of your site (displayed in the header)
+name: Joshua Schnapf
 
-github:
-  repo:           https://github.com/poole/lanyon
+# Short bio or description (displayed in the header)
+description: Artist, designer
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble: 
+  email: schnapf@gmail.com
+  facebook: 
+  flickr: 
+  github: jschnapf
+  instagram: schnapf
+  linkedin: 
+  pinterest: 
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: schnapf
