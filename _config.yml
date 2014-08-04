@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Monochrome
-tagline:          Digital
-description:      A blog
+title:            'Monochrome'
+tagline:          'Digital'
+description:      'Digital design'
 baseurl:          http://jschnapf.github.io/
 
 
