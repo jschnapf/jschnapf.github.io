@@ -6,10 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Joshua Schnapf
-tagline:          Art + Web
+title:            Monochrome
+tagline:          Digital
 description:      A blog
-baseurl:          http://jschnapf.github.io/lanyon/
+baseurl:          http://jschnapf.github.io/
 
 
 
