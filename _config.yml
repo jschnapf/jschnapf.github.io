@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A Jekyll blog.'
-baseurl:              http://jschnapf.github.io/lanyon/
+title:            Joshua Schnapf
+tagline:          Art + Web
+description:      A blog
+baseurl:          http://jschnapf.github.io/lanyon/
 
 
 
 author:
-  name:           'Mark Otto'
+  name:           'Joshua Schnapf'
   url:            https://twitter.com/mdo
 
 paginate:         5
